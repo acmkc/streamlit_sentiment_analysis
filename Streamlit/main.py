@@ -7,6 +7,10 @@ from tensorflow.keras import activations
 import tensorflow as tf
 import numpy as np
 
+
+nltk.download('wordnet')
+
+
 #st.balloons()
 
 
