@@ -11,7 +11,7 @@ import numpy as np
 import sys
 from pathlib import Path
 
-dir = Path(__file__).abspath()
+dir = Path(__file__)
 sys.path.append(dir.parent.parent)
 
 
