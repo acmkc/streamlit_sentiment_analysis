@@ -2,3 +2,4 @@ nltk
 transformers 
 tensorflow
 numpy
+pathlib
