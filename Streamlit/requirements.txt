@@ -1,0 +1,5 @@
+nltk 
+transformers 
+pickle
+tensorflow
+numpy
