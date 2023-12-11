@@ -8,6 +8,14 @@ import tensorflow as tf
 import numpy as np
 
 
+import sys
+from pathlib import Path
+
+dir = Path(__file__).abspath()
+sys.path.append(dir.parent.parent)
+
+
+
 nltk.download('wordnet')
 
 
