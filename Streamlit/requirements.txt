@@ -4,3 +4,4 @@ tensorflow
 numpy
 pathlib
 huggingface_hub
+pip install --upgrade transformers
