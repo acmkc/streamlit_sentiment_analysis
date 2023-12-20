@@ -3,3 +3,4 @@ transformers
 tensorflow
 numpy
 pathlib
+huggingface_hub
